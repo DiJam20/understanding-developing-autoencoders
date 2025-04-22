@@ -7,12 +7,6 @@ This repository contains the code for my Bachelor's thesis:
 
 The project explores how incrementally increasing the latent space of an autoencoder during training affects the latent space structure.
 
-## Contents
-
-- `code/` – Scripts for model training, data processing, and plotting
-- `figures/` – Plots and visualizations used in the thesis
-- `thesis.pdf` – Bachelor's thesis
-
 ## Requirements
 
 Python 3.10.12
