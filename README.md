@@ -1,7 +1,7 @@
 # Developing Autoencoder
 
 This repository contains the code for my Bachelor's thesis:  
-**"Effects of Incrementally Increasing Latent Dimensionality in Autoencoders."**
+**Effects of Incrementally Increasing Latent Dimensionality in Autoencoders**
 
 ## Overview
 
