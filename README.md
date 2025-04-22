@@ -17,4 +17,3 @@ The project explores how incrementally increasing the latent space of an autoenc
 
 Python 3.10.12
 PyTorch 2.1.1
-NumPy, Matplotlib, scikit-learn
